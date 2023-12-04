@@ -1,0 +1,31 @@
+.login_wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.login_wrapper .login_popup {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5em;
+  width: 40em;
+  height: 40em;
+  background-color: rgb(51, 51, 51);
+}
+.login_wrapper .login_popup .wordBrand {
+  margin-top: 2em;
+  color: aliceblue;
+}
+.login_wrapper .login_popup .login_pages_form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+  margin: 2em;
+}
+.login_wrapper .login_popup .submit_login_pages {
+  margin: 2em;
+}
+.login_wrapper .test_data {
+  color: white;
+}/*# sourceMappingURL=global.css.map */
